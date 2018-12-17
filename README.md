@@ -59,7 +59,7 @@ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 sudo apt-get update
 sudo apt-get install -y  ffmpeg
 
-#config nginx
+#config nginx remember change ip address
 sudo nano /usr/local/nginx/conf/nginx.conf 
 -----------------------------------------nginx.conf----------------------------------------------------------
 user root;
