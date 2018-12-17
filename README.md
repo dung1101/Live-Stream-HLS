@@ -1,4 +1,4 @@
-## Build live stream server with hls + nginx + ubuntu
+## Build live stream server with hls + nginx + ubuntu 16.04
 ```
 #install library
 sudo apt-get update		
